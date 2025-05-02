@@ -1,1 +1,0 @@
-# bater_ponto.sh
